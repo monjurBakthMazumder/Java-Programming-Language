@@ -213,7 +213,7 @@ Today you learned:
 - **Bitwise Operators:** &, |, ^, ~, <<, >>
 - **Ternary Operator:** `condition ? value_if_true : value_if_false`
 
-🎯 You are now ready for **Day 04**, where we will explore **Control Flow Statements in Java**!
+🎯 You are now ready for **Day 04**, where we will explore **Conditional Statements in Java**!
 
 ---
 

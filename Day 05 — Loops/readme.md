@@ -1,5 +1,3 @@
-
-
 # 💻 Java Programming – Day 05: Loops
 
 Welcome to **Day 05 of Java Programming**! 🎉
@@ -122,14 +120,14 @@ for(int i = 1; i <= 5; i++) {
 
 Today you learned:
 
-* `for` Loop – repeat a block a fixed number of times
-* `while` Loop – repeat while condition is true
-* `do-while` Loop – run at least once, then check condition
-* Nested Loops – loops inside loops for patterns or 2D structures
-* `break` Statement – exit loop immediately
-* `continue` Statement – skip current iteration
+- `for` Loop – repeat a block a fixed number of times
+- `while` Loop – repeat while condition is true
+- `do-while` Loop – run at least once, then check condition
+- Nested Loops – loops inside loops for patterns or 2D structures
+- `break` Statement – exit loop immediately
+- `continue` Statement – skip current iteration
 
-🎯 You are now ready to learn **Arrays in Java**, where loops become very powerful!
+🎯 You are now ready for **Day 06**, where we will explore **Pattern Printing & Logic Building in Java!**
 
 ---
 

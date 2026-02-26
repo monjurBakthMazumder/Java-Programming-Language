@@ -53,10 +53,10 @@ Year: 2026
 
 When naming variables in Java, follow these rules:
 
-✅ Can contain letters, digits, `_`, `$`
-✅ Must start with a letter, `_`, or `$`
-✅ Cannot start with a digit
-✅ Cannot be a **Java keyword**
+✅ Can contain letters, digits, `_`, `$`   
+✅ Must start with a letter, `_`, or `$`   
+✅ Cannot start with a digit  
+✅ Cannot be a **Java keyword**  
 ✅ Case-sensitive (`age` ≠ `Age`)
 
 **Example:**
@@ -193,7 +193,7 @@ Today you learned:
 - Using **constants** with `final`
 - **Memory basics** for primitive types
 
-🎯 You are now ready for **Day 03**, where we will explore **operators and expressions in Java**!
+🎯 You are now ready for **Day 03**, where we will explore **Type Casting & Operators in Java**!
 
 ---
 

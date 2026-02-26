@@ -1,7 +1,3 @@
-Here’s a **beginner-friendly `README.md`** for **Day 06 — Pattern Printing & Logic Building**:
-
----
-
 # 💻 Java Programming – Day 06: Pattern Printing & Logic Building
 
 Welcome to **Day 06 of Java Programming**! 🎉
@@ -166,11 +162,11 @@ Multiplication table logic using nested loops:
 
 Today you learned:
 
-* Number Patterns – print sequences of numbers
-* Star Patterns – create shapes with `*`
-* Pyramid Patterns – combine spacing and stars
-* Reverse Patterns – flip patterns for logic practice
-* Nested Loop Logic – build programs using nested loops
+- Number Patterns – print sequences of numbers
+- Star Patterns – create shapes with `*`
+- Pyramid Patterns – combine spacing and stars
+- Reverse Patterns – flip patterns for logic practice
+- Nested Loop Logic – build programs using nested loops
 
 🎯 Pattern printing strengthens **logical thinking and problem-solving skills**.
 

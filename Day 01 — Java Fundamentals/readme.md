@@ -475,7 +475,7 @@ Today you learned:
 * Output methods: `print`, `println`, `printf`
 * Escape sequences
 
-🎯 You’re now ready for **Day 02**, where we will explore **variables, data types, and operators in Java**!
+🎯 You’re now ready for **Day 02**, where we will explore **Variables & Data Types in Java**!
 
 ---
 
