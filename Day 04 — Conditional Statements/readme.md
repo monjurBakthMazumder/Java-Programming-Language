@@ -1,5 +1,3 @@
-
-
 # 💻 Java Programming – Day 04: Conditional Statements
 
 Welcome to **Day 04 of Java Programming**! 🎉
@@ -151,27 +149,24 @@ System.out.println(eligibility);
 
 Today you learned:
 
-* `if` Statement – run code only if condition is true
-* `if-else` Statement – choose between two paths
-* Nested `if` – check multiple conditions inside another
-* `else-if` Ladder – check multiple conditions sequentially
-* `switch` Statement – compare one variable with many values
-* Decision Making Programs – practical examples using conditions
+- `if` Statement – run code only if condition is true
+- `if-else` Statement – choose between two paths
+- Nested `if` – check multiple conditions inside another
+- `else-if` Ladder – check multiple conditions sequentially
+- `switch` Statement – compare one variable with many values
+- Decision Making Programs – practical examples using conditions
 
 🎯 You are now ready for **Day 05**, where we will explore **Loops in Java**!
 
 ---
 
-
 # Author
 
-**Md Monjur Bakth Mazumder**  
-**Software Engineer | Lead Frontend Developer**
+**Engr. Md Monjur Bakth Mazumder**
 
-Software Engineer & Lead Frontend Developer at [Qrinux](https://www.qrinux.com/)  
-Software Engineer & Lead Frontend Developer at [Boom Box E-Solutions](https://www.boomboxesolutions.com/)
+🎓 Diploma in Computer Technology — [Moulvibazar Polytechnic Institute](https://mpi.moulvibazar.gov.bd/)  
+🎓 BSc in CSE (Running) — [Sylhet International University](https://siu.edu.bd/)
 
-📧 [Email me](mailto:md.monjurmbm2001@gmail.com)  
-🌐 [Portfolio](https://mdmonjurbakthmazumder.netlify.app)
+📧 Email: monjurmbm404@gmail.com
 
-Passionate about building clean, maintainable, and scalable applications
+### ⭐ If you find this helpful, don’t forget to **star** the repository!
